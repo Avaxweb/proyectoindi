@@ -1,0 +1,200 @@
+#cer{
+	list-style: none;
+	font-size: 25px;
+	color: white;
+	margin-left: 93%;
+	
+
+}
+#cer:hover{
+	cursor: pointer;
+	color:cyan;
+}
+
+
+
+#fondo{
+	display: none;
+	height: 100%;
+	width: 100%;
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+    position: fixed;
+
+}
+form{
+	
+	width: 350px;
+	height: 450px;
+	background: -webkit-linear-gradient(60deg, rgba(0, 0, 0.13) 0%,rgba(0,0,0,0.0) 100%); 
+	margin: auto;
+	margin-top: 80px;
+	text-align: center;
+	border-radius: 70px 0px;
+	border-style: ridge;
+	border-color:white;
+
+}
+#sig{
+	list-style: none;
+}
+#img{
+	width: 100px;
+	background-color: black;
+	border-radius: 200px;
+}
+#lbl-registro{
+	font-size: 24px;
+	font-family: arial;
+	color:cyan;
+}
+#nombre{
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+	width: 90%;
+	height: 25px;
+	text-indent: 20px;
+	font-size: 16px;
+	position: relative;
+	top: 25px;
+}#nombre:hover{
+	background:white; 
+}
+
+#usuario{
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+	width: 90%;
+	height: 25px;
+	text-indent: 20px;
+	font-size: 16px;
+	position: relative;
+	top: 35px;
+}#usuario:hover{
+	background:white; 
+}
+
+#clave{
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+	width: 90%;
+	height: 25px;
+	text-indent: 20px;
+	font-size: 16px;
+	position: relative;
+	top: 45px;
+}#clave:hover{
+	background:white; 
+}
+
+#clavec{
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+	width: 90%;
+	height: 25px;
+	text-indent: 20px;
+	font-size: 16px;
+	position: relative;
+	top: 50px;
+}#clavec:hover{
+	background:white; 
+}
+
+#iniciar{
+	background: cyan;
+	width: 40%;
+	height: 25px;
+	font-size: 16px;
+	position: relative;
+	top: 80px;
+}#iniciar:hover{
+	background:#32EF2C;
+	color:black; 
+	cursor: pointer;
+}
+
+
+
+
+#fondoinicio{
+	display: none;
+	height: 100%;
+	width: 100%;
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+    position: fixed;
+
+}
+
+#cerrar{
+	list-style: none;
+	font-size: 25px;
+	color: white;
+	margin-left: 93%;
+	
+
+}
+#cerrar:hover{
+	cursor: pointer;
+	color:cyan;
+}
+
+
+
+#inicio{
+	
+	width: 350px;
+	height: 350px;
+	background: -webkit-linear-gradient(60deg, rgba(0, 0, 0.13) 0%,rgba(0,0,0,0.0) 100%); 
+	margin: auto;
+	margin-top: 80px;
+	text-align: center;
+	border-radius: 70px 15px;
+	border-style: ridge;
+	border-color:white;
+
+}
+#sig{
+	list-style: none;
+}
+#img{
+	width: 100px;
+	background-color: black;
+	border-radius: 200px;
+}
+#lbl-registro{
+	font-size: 24px;
+	font-family: arial;
+	color:cyan;
+}
+
+#usuario{
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+	width: 90%;
+	height: 25px;
+	text-indent: 20px;
+	font-size: 16px;
+	position: relative;
+	top: 30px;
+}#usuario:hover{
+	background:white; 
+}
+
+#clave{
+	background: -webkit-linear-gradient(-45deg, rgba(38, 170, 228) 0%,rgba(0,0,0,0.45) 100%); 
+	width: 90%;
+	height: 25px;
+	text-indent: 20px;
+	font-size: 16px;
+	position: relative;
+	top: 40px;
+}#clave:hover{
+	background:white; 
+}
+
+#iniciars{
+	background: cyan;
+	width: 40%;
+	height: 25px;
+	font-size: 16px;
+	position: relative;
+	top: 50px;
+}#iniciars:hover{
+	background:#32EF2C;
+	color:black; 
+	cursor: pointer;
+}
